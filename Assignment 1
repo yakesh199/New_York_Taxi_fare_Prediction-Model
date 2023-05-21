@@ -1,0 +1,15 @@
+Q1 Answer-: while declearling the variable you have to think that varible is daynamic and you have to kee in mind that python dosconncet the perivius value of varible in order to save the space and you also have to keep in mind that viable is slef defined you donot need to define it type.
+
+Q2 Answer-:If you try to use a restricted keyword as a variable name, Python's interpreter will raise a SyntaxError and indicate that you have used an invalid syntax.
+
+Q3 Answer-:no as the menning of string is already decleared in the python labariry
+
+Q4 Answer -:Yes, in Python, it is possible to use an underscore () as a variable name. The underscore is a valid identifier and can be used as a variable name like any other valid identifier. It is often used as a convention for certain purposes in Python. Here's an example: _ = 42 print() 42
+
+Q5 Answer -:In Python, variables are dynamic in nature, which means their data type and value can change during the execution of a program. Let's consider an example to illustrate this dynamic behavior:
+
+python Copy code x = 5 print(x) # Output: 5
+
+x = "Hello" print(x) # Output: Hello
+
+x = [1, 2, 3] print(x) # Output: [1, 2, 3]
